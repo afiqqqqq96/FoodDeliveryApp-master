@@ -20,7 +20,7 @@ public class ExampleInstrumentedTest {
     @Test
     public void useAppContext() {
         // Context of the app under test.
-        // Muaz gay
+        // Muaz asdsad
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
         assertEquals("com.rajendra.foodapp", appContext.getPackageName());
